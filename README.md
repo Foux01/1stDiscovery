@@ -1,1 +1,1 @@
-# 1stDiscovery
+# Discovery
